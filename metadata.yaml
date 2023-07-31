@@ -6,12 +6,17 @@ contributor:
     alias: Hutchins, A.
     gutenberg_agent_id: '46764'
     url: http://www.gutenberg.org/2009/agents/46764
+covers:
+- cover_type: archival
+  image_path: 71212-h/images/cover.jpg
 creator:
   author:
     agent_name: Graham, Tom
     gutenberg_agent_id: '56120'
     url: http://www.gutenberg.org/2009/agents/56120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71212#Hike-and-the-aeroplane
 gutenberg_issued: '2023-07-17'
 identifiers:
   gutenberg: '71212'
